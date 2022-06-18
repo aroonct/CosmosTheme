@@ -17,5 +17,15 @@
                 "path": "./themes/kiro cosmos-color-theme.json"
             }
         ]
-    }
+    },
+    "icon": "logotheme-cosmos.png",
+    "author": {
+        "name": "Kiro",
+        "url": "https://kiro.vercel.app"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/ever2402/CosmosTheme.git"
+    },
+    "publisher": "Kiro"
 }
